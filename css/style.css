@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(181, 241, 241);
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(30, 30, 131);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+img {
+
+    display: inline-block;
+}
+
+footer {
+    font-style: italic;
+}
+
+li {
+    width: 30%;
+    display: inline-block;
+    background-color: rgb(228, 213, 237);
+}
+
+a {
+    color: rgb(255, 0, 153);
+}
+
+#bacon {
+    padding: 30px;
+    display: block;
+    margin: auto;
+}
+
+span {
+    float: right;
+}
